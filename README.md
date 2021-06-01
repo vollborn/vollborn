@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vollborn/vollborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### [Hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 🌠
+
+My name is Oliver. I am a german full stack developer and I love coding.
+<br />And Star Wars.
+
+Check out my full portfolio at [https://code-experience.org](https://code-experience.org)!
