@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 My name is Oliver. I am a german full stack developer and I love coding.
 <br />And Star Wars.
 
-Check out my full portfolio at [https://code-experience.org](https://code-experience.org)!
+Check out my full portfolio at [https://www.code-experience.org](https://www.code-experience.org)!
